@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thien.nguyenquang1506@hcmut.edu.vn**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nqt1506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nqt1506" height="30" width="40" /></a>
 <a href="https://fb.com/nqt150603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nqt150603" height="30" width="40" /></a>
