@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
 <h3 align="center">As a junior at HCMUT, my major is Computer Engineering.</h3>
 
-- 📄 My Curriculum Vitae [QuangThien_CV](https://github.com/ThienNguyen15/Curriculum_Vitae_CV/blob/main/CV_1.0.pdf)
-
 - 🌱 I’m currently learning **Embedded Systems, AIOT**
 
 - 🔭 I’m currently working on **Ho Chi Minh city University of Technology (HCMUT)**
@@ -10,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Embedded Systems, AIOT projects**
 
 - 💬 Ask me about **Embedded Systems, AIOT, MCU**
+
+- 📄 My Curriculum Vitae [QuangThien_CV](https://github.com/ThienNguyen15/Curriculum_Vitae_CV/blob/main/CV_1.0.pdf)
 
 - 📫 How to reach me **thien.nguyenquang1506@hcmut.edu.vn**
 
