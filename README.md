@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Embedded Systems, AIOT, MCU**
 
-- 📄 My Curriculum Vitae [QuangThien_CV](https://github.com/ThienNguyen15/Curriculum_Vitae_CV/blob/main/CV_1.0.pdf)
+- 📄 My Curriculum Vitae **[QuangThien_CV](https://github.com/ThienNguyen15/Curriculum_Vitae_CV/blob/main/CV_1.0.pdf)**
 
-- 📫 How to reach me thien.nguyenquang1506@hcmut.edu.vn
+- 📫 How to reach me **thien.nguyenquang1506@hcmut.edu.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
