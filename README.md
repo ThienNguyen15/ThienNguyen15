@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
 <h3 align="center">As a junior at HCMUT, my major is Computer Engineering.</h3>
 
-- 🌱 I’m currently learning **Embedded Systems, AIOT**
-
 - 🔭 I’m currently working on **Ho Chi Minh city University of Technology (HCMUT)**
 
 - 👯 I’m looking to collaborate on **Embedded Systems, AIOT projects**
+
+- 🌱 I’m currently learning **Embedded Systems, AIOT**
 
 - 💬 Ask me about **Embedded Systems, AIOT, MCU**
 
