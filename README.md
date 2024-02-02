@@ -1,3 +1,5 @@
+![Uploading 26-Quang Thiện.JPG…]()
+
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
 <h3 align="center">As a junior at HCMUT, my major is Computer Engineering.</h3>
 
