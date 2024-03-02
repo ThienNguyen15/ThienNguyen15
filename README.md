@@ -1,4 +1,4 @@
-![Background_Xin3](https://github.com/ThienNguyen15/ThienNguyen15/assets/144821367/c62c9d03-5de0-4ad2-8f96-899b524ca917)
+![Background_Xin4](https://github.com/ThienNguyen15/ThienNguyen15/assets/144821367/7f89fe2f-9874-4dac-9570-d43c04e97cae)
 
 <h1 align="center">Hi 👋, I'm Nguyen Quang Thien</h1>
 <h3 align="center">As a junior at HCMUT, my major is Computer Engineering.</h3>
