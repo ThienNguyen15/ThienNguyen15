@@ -27,10 +27,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Alumni of **Ho Chi Minh City University of Technology (HCMUT)**.
-- 🔭 **Focus:** Specializing in **Embedded Systems, AIoT (Artificial Intelligence of Things)**, and Robotics.
-- 🤝 **Collaboration:** Open to collaborating on **UAV, Drone control, and Smart IoT System projects**.
+- 🔭 **Focus:** Specializing in **Robotics, Embedded Systems, and AIoT (Artificial Intelligence of Things)**.
 - 🌱 **Learning:** Continuously exploring Advanced RTOS, Sensor Fusion, and Edge AI.
-- 💬 **Ask me about:** STM32, ESP32, ROS 2, and Hardware-Software Integration.
+- 💬 **Ask me about:** Robotics, Embedded Systems, AIOT.
 
 ---
 
