@@ -18,13 +18,23 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Alumni of **Ho Chi Minh City University of Technology (HCMUT)**.
-- 🔭 **Focus:** Specializing in **Robotics, Embedded Systems, and AIoT (Artificial Intelligence of Things)**.
+- 🔭 **Focus:** Specializing in **Autonomous Drones, ROS 2 Navigation, Embedded Systems, and AIoT (Artificial Intelligence of Things)**.
 - 🌱 **Learning:** Continuously exploring Advanced RTOS, Sensor Fusion, and Edge AI.
 - 💬 **Ask me about:** Robotics, Embedded Systems, AIOT.
 
 ---
 
 ### 🛠️ Technical Arsenal
+
+#### 🚁 Robotics & Drone Tech
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
+  <img src="https://img.shields.io/badge/PX4-333333?style=for-the-badge&logo=px4&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F57721?style=for-the-badge&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroXRCE--DDS-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAVLink-1155cc?style=for-the-badge&logo=box&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGroundControl-41C300?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 #### 🔩 Embedded & Core Languages
 <p align="left">
