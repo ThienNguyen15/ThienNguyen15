@@ -8,17 +8,8 @@
 <h3 align="center">Computer Engineer | Robotics & Embedded Systems & AIoT Developer</h3>
 
 <p align="center">
-  <a href="mailto:thien.nguyenquang1506@hcmut.edu.vn">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
   <a href="https://github.com/ThienNguyen15/ThienNguyen15/blob/main/My_CV.pdf">
     <img src="https://img.shields.io/badge/CV-View_My_Resume-00599C?style=flat-square&logo=read-the-docs&logoColor=white" alt="CV" />
-  </a>
-  <a href="https://linkedin.com/in/nqt1506">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/nqt150603">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
