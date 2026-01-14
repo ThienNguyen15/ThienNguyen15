@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ThienNguyen15/ThienNguyen15/blob/main/My_CV.pdf">
-    <img src="https://img.shields.io/badge/Curriculum_Vitae-00BFFF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/Curriculum_Vitae-7595CD?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
   </a>
 </p>
 
