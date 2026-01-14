@@ -7,16 +7,11 @@
 <h1 align="center">Hi there, I'm Thien Nguyen 👋</h1>
 <h3 align="center">Computer Engineer | Robotics & Embedded Systems & AIoT Developer</h3>
 
-<div align="center">
-  <br/>
+<p align="center">
   <a href="https://github.com/ThienNguyen15/ThienNguyen15/blob/main/My_CV.pdf">
-    <img src="https://img.shields.io/badge/Curriculum_Vitae-000000?style=flat-square&logo=apple&logoColor=white&labelColor=181717" alt="CV" />
+    <img src="https://img.shields.io/badge/RESUME-Click_to_View-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
   </a>
-   &nbsp; 
-  <a href="mailto:thien.nguyenquang1506@hcmut.edu.vn">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+</p>
 
 <hr/>
 
