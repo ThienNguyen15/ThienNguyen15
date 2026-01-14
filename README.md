@@ -8,8 +8,14 @@
 <h3 align="center">Computer Engineer | Robotics & Embedded Systems & AIoT Developer</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Computer+Engineer;Robotics+%26+Embedded+Systems;AIoT+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ThienNguyen15/ThienNguyen15/blob/main/My_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-View_My_Resume-00599C?style=flat-square&logo=read-the-docs&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/MY_CV-Review_Now-2ea44f?style=flat&logo=docusign&logoColor=white" height="30" alt="CV" />
   </a>
 </p>
 
