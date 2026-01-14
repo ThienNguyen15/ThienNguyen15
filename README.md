@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Hi there, I'm Thien Nguyen 👋</h1>
-<h3 align="center">Computer Engineer | Embedded Systems & AIoT Developer</h3>
+<h3 align="center">Computer Engineer | Robotics & Embedded Systems & AIoT Developer</h3>
 
 <p align="center">
   <a href="mailto:thien.nguyenquang1506@hcmut.edu.vn">
