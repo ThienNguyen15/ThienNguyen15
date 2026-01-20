@@ -68,9 +68,6 @@
   <a href="https://gazebosim.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/5366963/222485573-094324f9-b883-4a1b-bd57-a35c246f6627.png" width="40" height="40" alt="Gazebo" />
   </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab" />
-  </a>
 </p>
 
 <b>• AI, Data & Cloud</b>
@@ -90,4 +87,3 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
   </a>
----
