@@ -53,11 +53,14 @@
   <a href="https://px4.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/master/docs/assets/site/logo_pro_small.png" width="40" height="40" alt="PX4" />
   </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
+  </a>
   <a href="http://qgroundcontrol.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
   </a>
-  <a href="https://gazebosim.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/>
   </a>
 </p>
 
