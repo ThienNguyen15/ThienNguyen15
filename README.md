@@ -26,37 +26,6 @@
 
 ### 🛠️ Technical Arsenal
 
-<h3 align="left">Languages & Tools</h3>
-
-<b>• Robotics, UAV & Simulation</b>
-<p align="left">
-  <a href="https://ros.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" />
-  </a>
-  <a href="https://px4.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/master/docs/assets/site/logo_pro_small.png" width="40" height="40" alt="PX4" />
-  </a>
-  <a href="http://qgroundcontrol.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
-  </a>
-  <a href="https://gazebosim.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab" />
-  </a>
-</p>
-
-<b>• Embedded Systems, OS & Hardware</b>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  </a>
-</p>
-
 <b>• Programming & Scripting</b>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -73,6 +42,22 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  </a>
+</p>
+
+<b>• Robotics, UAV & Simulation</b>
+<p align="left">
+  <a href="https://ros.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" />
+  </a>
+  <a href="https://px4.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/master/docs/assets/site/logo_pro_small.png" width="40" height="40" alt="PX4" />
+  </a>
+  <a href="http://qgroundcontrol.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
+  </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
   </a>
 </p>
 
@@ -114,5 +99,15 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  </a>
+</p>
+
+<b>• Embedded Systems, OS & Hardware</b>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   </a>
 </p>
