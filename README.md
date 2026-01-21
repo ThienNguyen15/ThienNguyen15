@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/master/docs/assets/site/logo_pro_small.png" width="40" height="40" alt="PX4" />
   </a>
   <a href="http://qgroundcontrol.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/QGroundControl_logo.png" width="40" height="40" alt="QGroundControl" />
+    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
   </a>
   <a href="https://gazebosim.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
@@ -59,14 +59,14 @@
 
 <b>• Programming & Scripting</b>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
