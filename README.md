@@ -91,9 +91,6 @@
   <a href="https://hadoop.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop" />
   </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
-  </a>
 </p>
 
 <b>• Web Technologies</b>
