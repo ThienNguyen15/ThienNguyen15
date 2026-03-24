@@ -59,22 +59,22 @@
   <a href="http://qgroundcontrol.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
   </a>
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40"/>
-  </a>
 </p>
 
-<b>• Embedded Systems, OS & Hardware</b>
+<b>• Embedded Systems & IoT</b>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <a href="https://thingsboard.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/23581373?s=200&v=4" width="40" height="40" alt="ThingsBoard" />
+  </a>
+  <a href="https://io.adafruit.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/43989?s=200&v=4" width="40" height="40" alt="Adafruit" />
   </a>
 </p>
 
-<b>• AI, Data & Tools</b>
+<b>• AI, Data & Visualization</b>
 <p align="left">
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
@@ -85,15 +85,18 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana" />
   </a>
 </p>
 
-<b>• Web Technologies & Cloud</b>
+<b>• Web Technologies</b>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
@@ -109,4 +112,21 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  </a>
+</p>
+
+<b>• DevOps, OS & Tools</b>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="40" height="40" alt="Qt" />
+  </a>
 </p>
