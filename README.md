@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" />
   </a>
   <a href="https://px4.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/PX4/PX4-Autopilot/main/docs/assets/site/logo_pro_small.png" width="40" height="40" alt="PX4" />
+    <img src="https://avatars.githubusercontent.com/u/3182325?s=40&v=4" width="40" height="40" alt="PX4" />
   </a>
   <a href="https://gazebosim.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
