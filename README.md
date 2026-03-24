@@ -67,10 +67,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
   </a>
   <a href="https://thingsboard.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/23581373?s=200&v=4" width="40" height="40" alt="ThingsBoard" />
+    <img src="https://cdn.simpleicons.org/thingsboard/305680" width="40" height="40" alt="ThingsBoard" />
   </a>
   <a href="https://io.adafruit.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/43989?s=200&v=4" width="40" height="40" alt="Adafruit" />
+    <img src="https://cdn.simpleicons.org/adafruit/000000" width="40" height="40" alt="Adafruit" />
   </a>
 </p>
 
