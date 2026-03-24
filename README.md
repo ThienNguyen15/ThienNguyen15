@@ -26,6 +26,22 @@
 
 ### 🛠️ Technical Arsenal
 
+<b>• Robotics, UAV & Simulation</b>
+<p align="left">
+  <a href="https://ros.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" />
+  </a>
+  <a href="https://px4.io/" target="_blank">
+    <img src="https://github.com/PX4.png" width="40" height="40" alt="PX4" />
+  </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
+  </a>
+  <a href="http://qgroundcontrol.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
+  </a>
+</p>
+
 <b>• Programming & Scripting</b>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -42,22 +58,6 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-  </a>
-</p>
-
-<b>• Robotics, UAV & Simulation</b>
-<p align="left">
-  <a href="https://ros.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" />
-  </a>
-  <a href="https://px4.io/" target="_blank">
-    <img src="https://github.com/PX4.png" width="40" height="40" alt="PX4" />
-  </a>
-  <a href="https://gazebosim.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" width="40" height="40" alt="Gazebo" />
-  </a>
-  <a href="http://qgroundcontrol.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mavlink/qgroundcontrol/master/resources/icons/qgroundcontrol.png" width="40" height="40" alt="QGroundControl" />
   </a>
 </p>
 
