@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/87a75a73-f293-46ea-adda-5fda2d19f1a7" width="33" height="40" alt="C" />
+    <img src="https://github.com/user-attachments/assets/87a75a73-f293-46ea-adda-5fda2d19f1a7" width="35" height="40" alt="C" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
