@@ -63,9 +63,6 @@
 
 <b>• Embedded Systems & IoT</b>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
-  </a>
   <a href="https://platformio.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/platformio/FE7A16" width="40" height="40" alt="PlatformIO" />
   </a>
@@ -74,6 +71,12 @@
   </a>
   <a href="https://io.adafruit.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/adafruit/000000" width="40" height="40" alt="Adafruit" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
+  </a>
+  <a href="https://www.espressif.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="40" height="40" alt="Espressif (ESP32)" />
   </a>
 </p>
 
