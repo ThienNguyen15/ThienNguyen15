@@ -66,6 +66,9 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
   </a>
+  <a href="https://platformio.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/platformio/FE7A16" width="40" height="40" alt="PlatformIO" />
+  </a>
   <a href="https://thingsboard.io/" target="_blank">
     <img src="https://github.com/user-attachments/assets/788b744e-5feb-487e-a851-447bdcd6c81f" width="40" height="40" alt="ThingsBoard"/>
   </a>
